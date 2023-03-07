@@ -1,5 +1,6 @@
 textarea{
-  width:fit-content;
-  padding: 1rem rem;
-
+  width: 80%;
+  display: block;
+  padding: 1rem 1rem;
+  margin: 1rem;
 }
