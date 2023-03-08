@@ -4,3 +4,7 @@ textarea{
   padding: 1rem 1rem;
   margin: 1rem;
 }
+
+button{
+  text-align: center;
+}
